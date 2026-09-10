@@ -1,4 +1,4 @@
 # amoha
 my second repository
 <br>
-author - priya
+author - priya the student of cutm
